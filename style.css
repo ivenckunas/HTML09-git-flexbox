@@ -1,0 +1,10 @@
+.flex-container {
+  background-color: rgb(175, 175, 175);
+  padding: 25px;
+}
+
+.post {
+  background-color: rgb(226, 226, 226);
+  padding: 10px;
+  border-radius: 7px;
+}
